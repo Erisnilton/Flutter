@@ -11,6 +11,6 @@ frase na tela do App. Porém algum widget foram trabalhado,tais como:
 * Widget Image
 * Widget Container
 * Widget Text
-* entre outros ...
+* Entre outros ...
 
 
