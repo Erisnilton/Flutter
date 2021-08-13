@@ -1,4 +1,4 @@
-﻿># Repositorio Flutter
+# Repositorio Flutter 📱
 
 Essse repositório está designado para estudo do framework mobile __Flutter__.
 
