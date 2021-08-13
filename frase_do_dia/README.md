@@ -1,4 +1,4 @@
-># Frase do Dia
+# Frase do Dia
 
 Tela Inicial               |  Tela com frase
 :-------------------------:|:-------------------------:
