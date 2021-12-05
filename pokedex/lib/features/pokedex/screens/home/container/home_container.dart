@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:pokedex/commons/erros/failure.dart';
 import 'package:pokedex/commons/models/pokemon.dart';
 import 'package:pokedex/commons/repositories/pokemon_repository.dart';
-import 'package:pokedex/features/home/pages/home_error.dart';
-import 'package:pokedex/features/home/pages/home_loading.dart';
-import 'package:pokedex/features/home/pages/home_page.dart';
+import 'package:pokedex/features/pokedex/screens/home/pages/home_error.dart';
+import 'package:pokedex/features/pokedex/screens/home/pages/home_loading.dart';
+import 'package:pokedex/features/pokedex/screens/home/pages/home_page.dart';
 
 class HomeContainer extends StatelessWidget {
   const HomeContainer({Key? key, required this.repository}) : super(key: key);
